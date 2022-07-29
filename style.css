@@ -9,6 +9,8 @@ body {
 
 .top-container {
   background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
 }
 
 .pro {
@@ -27,6 +29,11 @@ body {
     height: 200px;
     width: 200px;
 }
+
+.top-cloud {
+    position: absolute;
+}
+
 
 .bottom-cloud {
     position: absolute;
