@@ -1,7 +1,5 @@
 .top-container {
   background-color: #E4F9F5;
-  height: 200px;
-  width: 200px;
 }
 
 .pro {
@@ -10,6 +8,7 @@
 
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
@@ -20,12 +19,10 @@ h1 {
     background-color: red;
     height: 200px;
     width: 200px;
-    margin-left: 250px;
 }
 
 .bottom-container {
     background-color: blue;
     height: 200px;
     width: 200px;
-    margin-left: 500px;
 }
