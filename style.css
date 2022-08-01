@@ -35,8 +35,8 @@ body {
     border-style: none;
     border-top-style: dotted;
     border-color: lightgray;
-    width: 5%;
-    border-width: 8px;
+    width: 4%;
+    border-width: 7px;
     margin: 100px auto 100px auto;
   }
 
@@ -112,6 +112,8 @@ body {
 .mountain-adventure {
   color: #40514E;
   font-weight: bold;
+  width: 40%;
+  margin: 40px auto 60px;
 }
 
 .btn {
@@ -124,7 +126,8 @@ body {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
