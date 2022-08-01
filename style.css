@@ -73,3 +73,8 @@ body {
 .devdesign-img {
     width: 15%;
 }
+
+.webdesign-img {
+  width: 15%;
+  border-radius: 100px 100px 100px 100px;
+}
