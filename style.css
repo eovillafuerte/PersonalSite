@@ -48,6 +48,8 @@ body {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
+    line-height: 2;
+
 }
 
 .top-cloud {
@@ -66,4 +68,8 @@ body {
 
   a {
     color: #11999E;
+}
+
+.devdesign-img {
+    width: 15%;
 }
