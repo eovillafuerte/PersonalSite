@@ -33,6 +33,7 @@ body {
 
  .pro {
     text-decoration: underline;
+
 }
 
 
@@ -65,6 +66,9 @@ body {
     bottom: 300px;
 }
 
+  .mountain-img {
+    width: 20%;
+  }
 
   a {
     color: #11999E;
